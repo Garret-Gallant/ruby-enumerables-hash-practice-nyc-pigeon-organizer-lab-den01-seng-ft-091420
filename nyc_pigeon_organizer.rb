@@ -8,8 +8,7 @@ def nyc_pigeon_organizer(data)
         array[name] = {}
       end
     
+      end
     end
-  end
-    array
   end
 end

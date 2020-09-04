@@ -10,6 +10,8 @@ def nyc_pigeon_organizer(data)
       end
       if !array[name][key] do
          !array[name][key] = []
+       end
+       
     
       end
     end
